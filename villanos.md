@@ -4,3 +4,4 @@
 - Red Skull
 - Dr. Herrera
 - Capturar a Red Skull
+- Capitan América
